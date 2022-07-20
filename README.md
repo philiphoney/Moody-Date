@@ -40,7 +40,7 @@ The `moodyFullDate` allows you to display the full date.
 ## moodyDateDay
 With `moodyDateDay` you can display today.
 ```html
-<span class="moodyFullDate"></span>
+<span class="moodyDateDay"></span>
 ```
 `01`
 
